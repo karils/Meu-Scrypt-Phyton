@@ -39,13 +39,13 @@ O sistema realiza o cálculo e exibe o resultado no terminal.
 1. Clone o repositório:
 
 ```bash
-git clone git clone https://github.com/karils/Meu-Scrypt-Phyton.git
+git clone https://github.com/karils/Meu-Scrypt-Phyton.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd NOME_DO_REPOSITORIO
+cd cd Meu-Scrypt-Phyton
 ```
 
 3. Dê permissão de execução ao arquivo:
